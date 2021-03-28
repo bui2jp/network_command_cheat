@@ -7,6 +7,8 @@ Address Resolution Protocol
 
 ## ping
 
+## ip
+
 ## traceroute (tracert)
 
 ## netstat
@@ -16,3 +18,4 @@ Address Resolution Protocol
 ## dig (nslookup)
 
 ## tcpdump
+
