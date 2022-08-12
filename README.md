@@ -22,8 +22,9 @@ dig google.com
 #反復問い合わせの確認
 dig google.com +trace
 ```
-* nsレコードとは, 次に問い合わせるべきDNSサーバー
- root-serverは13個
+* nsレコードとは, 次に問い合わせるべきDNSサーバー  
+
+root-serverは13個
 ```
 ; <<>> DiG 9.10.6 <<>> google.com +trace
 ;; global options: +cmd
