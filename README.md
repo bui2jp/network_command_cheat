@@ -13,6 +13,13 @@ Address Resolution Protocol
 
 ## netstat
 
+## dig
+```
+dig google.com
+#反復問い合わせ
+dig google.com +trace
+```
+
 ## net/nbtstat
 
 ## dig (nslookup)
